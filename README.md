@@ -28,10 +28,10 @@ The application uses the YouTube API to fetch data. You can find the API documen
 https://developers.google.com/youtube/v3
 
 # Screenshots
-![image alt](https://github.com/AkashK1978/Media-Board/blob/b308914a92b64363a746cf2357aec73f3b3f67bc/Home.png)
-![image alt](https://github.com/AkashK1978/Media-Board/blob/b9340057f601a330b5add826080dd00f2c14647a/Channels.png)
-![image alt](https://github.com/AkashK1978/Media-Board/blob/86790b0a53becf6275017ff2f0b35f50cbaa8c27/View.png)
-![image alt](https://github.com/AkashK1978/Media-Board/blob/e4600dfaa2ac119b1a0e763a450ef30ab930f77c/Dashboard.png)
+![image alt](1)
+![image alt](2)
+![image alt](3)
+![image alt](4)
 
 # Contributing
 Contributions are welcome! Please submit a pull request with your changes.
