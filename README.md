@@ -28,10 +28,10 @@ The application uses the YouTube API to fetch data. You can find the API documen
 https://developers.google.com/youtube/v3
 
 # Screenshots
-![image alt]("1")
-![image alt]("2")
-![image alt]("3")
-![image alt]("4")
+![image alt](1.jpg)
+![image alt](2.jpg)
+![image alt](3.jpg)
+![image alt](4.jpg)
 
 # Contributing
 Contributions are welcome! Please submit a pull request with your changes.
